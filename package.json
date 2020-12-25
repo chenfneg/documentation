@@ -61,7 +61,7 @@
         "jshint-stylish": "2.2.1",
         "json2csv": "^4.5.2",
         "lazypipe": "1.0.2",
-        "lazysizes": "4.0.1",
+        "lazysizes": "5.2.1",
         "link-checker": "https://s3.amazonaws.com/origin-static-assets/corp-node-packages/zach/update-linkchecker/link-checker-v1.0.73.tgz",
         "lodash": "^4.17.20",
         "marked": "^1.2.5",
